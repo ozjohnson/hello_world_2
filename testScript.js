@@ -18,3 +18,4 @@ document.write("Hello " + who);
 document.bgColor = favcolor;
 
 //</script>
+change to file
